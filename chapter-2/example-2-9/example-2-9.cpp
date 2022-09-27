@@ -19,5 +19,6 @@ int main() {
     cout << "static_cast<int>(7.8 + static_cast<double>(15 / 2)) = "
         << static_cast<double>(7.8 + static_cast<double>(15) / 2) / 2 << endl;
 
+
     return 0;
 }
